@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/tfelic3.github.io/hurricane/static/css/main.e9eb06ad.chunk.css",
-    "main.js": "/tfelic3.github.io/hurricane/static/js/main.03e1c053.chunk.js",
-    "main.js.map": "/tfelic3.github.io/hurricane/static/js/main.03e1c053.chunk.js.map",
-    "runtime-main.js": "/tfelic3.github.io/hurricane/static/js/runtime-main.9d806523.js",
-    "runtime-main.js.map": "/tfelic3.github.io/hurricane/static/js/runtime-main.9d806523.js.map",
-    "static/js/2.add649c3.chunk.js": "/tfelic3.github.io/hurricane/static/js/2.add649c3.chunk.js",
-    "static/js/2.add649c3.chunk.js.map": "/tfelic3.github.io/hurricane/static/js/2.add649c3.chunk.js.map",
-    "index.html": "/tfelic3.github.io/hurricane/index.html",
-    "static/css/main.e9eb06ad.chunk.css.map": "/tfelic3.github.io/hurricane/static/css/main.e9eb06ad.chunk.css.map",
-    "static/js/2.add649c3.chunk.js.LICENSE.txt": "/tfelic3.github.io/hurricane/static/js/2.add649c3.chunk.js.LICENSE.txt"
+    "main.css": "/static/css/main.e9eb06ad.chunk.css",
+    "main.js": "/static/js/main.c7bffc11.chunk.js",
+    "main.js.map": "/static/js/main.c7bffc11.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.51966a50.js",
+    "runtime-main.js.map": "/static/js/runtime-main.51966a50.js.map",
+    "static/js/2.add649c3.chunk.js": "/static/js/2.add649c3.chunk.js",
+    "static/js/2.add649c3.chunk.js.map": "/static/js/2.add649c3.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.e9eb06ad.chunk.css.map": "/static/css/main.e9eb06ad.chunk.css.map",
+    "static/js/2.add649c3.chunk.js.LICENSE.txt": "/static/js/2.add649c3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9d806523.js",
+    "static/js/runtime-main.51966a50.js",
     "static/js/2.add649c3.chunk.js",
     "static/css/main.e9eb06ad.chunk.css",
-    "static/js/main.03e1c053.chunk.js"
+    "static/js/main.c7bffc11.chunk.js"
   ]
 }
