@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/tfelic3.github.io/explainer/static/css/main.e9eb06ad.chunk.css",
-    "main.js": "/tfelic3.github.io/explainer/static/js/main.03e1c053.chunk.js",
-    "main.js.map": "/tfelic3.github.io/explainer/static/js/main.03e1c053.chunk.js.map",
-    "runtime-main.js": "/tfelic3.github.io/explainer/static/js/runtime-main.73abd17e.js",
-    "runtime-main.js.map": "/tfelic3.github.io/explainer/static/js/runtime-main.73abd17e.js.map",
-    "static/js/2.add649c3.chunk.js": "/tfelic3.github.io/explainer/static/js/2.add649c3.chunk.js",
-    "static/js/2.add649c3.chunk.js.map": "/tfelic3.github.io/explainer/static/js/2.add649c3.chunk.js.map",
-    "index.html": "/tfelic3.github.io/explainer/index.html",
-    "static/css/main.e9eb06ad.chunk.css.map": "/tfelic3.github.io/explainer/static/css/main.e9eb06ad.chunk.css.map",
-    "static/js/2.add649c3.chunk.js.LICENSE.txt": "/tfelic3.github.io/explainer/static/js/2.add649c3.chunk.js.LICENSE.txt"
+    "main.css": "/tfelic3.github.io/hurricane/static/css/main.e9eb06ad.chunk.css",
+    "main.js": "/tfelic3.github.io/hurricane/static/js/main.03e1c053.chunk.js",
+    "main.js.map": "/tfelic3.github.io/hurricane/static/js/main.03e1c053.chunk.js.map",
+    "runtime-main.js": "/tfelic3.github.io/hurricane/static/js/runtime-main.9d806523.js",
+    "runtime-main.js.map": "/tfelic3.github.io/hurricane/static/js/runtime-main.9d806523.js.map",
+    "static/js/2.add649c3.chunk.js": "/tfelic3.github.io/hurricane/static/js/2.add649c3.chunk.js",
+    "static/js/2.add649c3.chunk.js.map": "/tfelic3.github.io/hurricane/static/js/2.add649c3.chunk.js.map",
+    "index.html": "/tfelic3.github.io/hurricane/index.html",
+    "static/css/main.e9eb06ad.chunk.css.map": "/tfelic3.github.io/hurricane/static/css/main.e9eb06ad.chunk.css.map",
+    "static/js/2.add649c3.chunk.js.LICENSE.txt": "/tfelic3.github.io/hurricane/static/js/2.add649c3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.73abd17e.js",
+    "static/js/runtime-main.9d806523.js",
     "static/js/2.add649c3.chunk.js",
     "static/css/main.e9eb06ad.chunk.css",
     "static/js/main.03e1c053.chunk.js"
